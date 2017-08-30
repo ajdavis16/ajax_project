@@ -1,0 +1,58 @@
+
+
+body { 
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	line-height: 1.5;
+	background-color: #060606;	
+	padding: 0;
+	margin: 0;
+}
+
+
+.container{
+	width:80%;
+	margin: auto;
+	overflow:hidden;
+}
+
+
+
+#div-1{
+	padding: 20px;
+	margin-top:0px;
+	color:#ffffff;
+	background-color:#F70D0D;
+	text-align: center;
+}
+
+
+#div-2{
+	/*padding: 20px;*/
+	margin-top:0px;
+	color:#ffffff;
+	/*background-color:#F70D0D;*/
+	/*text-align: center;*/
+}
+
+
+#main{
+	min-height: 800px;
+	background-size:33%;
+	background-image: url("./chucknorriss_1.jpg");
+	background-repeat: no-repeat;
+	background-position: center center;
+	text-align: center;
+	color:#ffffff;
+	margin-top:0px;
+}
+
+
+
+footer{
+	padding:20px;
+	margin-top:0px;
+	color:#ffffff;
+	background-color:#F70D0d;
+	text-align: center;
+}
